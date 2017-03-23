@@ -21,5 +21,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <dependency>
+	    <groupId>com.linecorp.bot</groupId>
+	    <artifactId>line-bot-spring-boot</artifactId>
+	    <version>1.6.0</version>
+	</dependency>
   </dependencies>
 </project>
